@@ -1,8 +1,8 @@
 <p align="center">
 <img height="384" src="https://imgur.com/pNticQl.png">
 <br>
-<a href="https://discordapp.com/"><img src="[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
-"></a>
+<a href="https://discordapp.com/"><img src=""></a>
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
 </p>
 <p align="center">
 <a href="https://twitter.com/intent/user?screen_name=kxwzyy"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20kxwzyy&style=social"></a>
@@ -20,8 +20,8 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 * [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 * [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 * [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-* [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com)
-* [![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com)
+* [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+* [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
 ![Meus status da GitHub](https://github-readme-stats.vercel.app/api?username=kxwzyy&show_icons=true&theme=radical)
 
