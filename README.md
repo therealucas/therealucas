@@ -16,11 +16,11 @@
 Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando mais. obrigado a todos os criadores das linguagens!
 
 
-* [JavaScript](https://nodejs.org)
-* [C++](https://www.npmjs.com/package/discord.js)
-* [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-* [HTML](https://www.npmjs.com/package/moment)
-* [CSS](https://www.npmjs.com/package/pg)
+* [![forthebadge](https://forthebadge.com/images/badges/Programo-javascript.svg)](https://forthebadge.com)
+* [![forthebadge](https://forthebadge.com/images/badges/Programo-c-plus-plus.svg)](https://forthebadge.com)
+* [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/Programo-python.svg)](https://www.python.org/)
+* [![forthebadge](https://forthebadge.com/images/badges/Programo-html.svg)](https://forthebadge.com)
+* [![forthebadge](https://forthebadge.com/images/badges/Programo-css.svg)](https://forthebadge.com)
 
 ![Meus status da GitHub](https://github-readme-stats.vercel.app/api?username=kxwzyy&show_icons=true&theme=radical)
 
