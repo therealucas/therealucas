@@ -17,10 +17,10 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 
 
 * [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://forthebadge.com)
-* [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-* [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-* [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-* [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+* [![forthebadge](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)](https://forthebadge.com)
+* [![forthebadge made-with-python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+* [![forthebadge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://forthebadge.com)
+* [![forthebadge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://forthebadge.com)
 
 ![Meus status da GitHub](https://github-readme-stats.vercel.app/api?username=kxwzyy&show_icons=true&theme=radical)
 
