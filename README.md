@@ -1,5 +1,4 @@
 <p align="center">
-<img height="384" src="https://imgur.com/pNticQl.png">
 <br>
 <a href="https://discordapp.com/"><img src="https://img.shields.io/badge/%3Ckxwzyy%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
