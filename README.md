@@ -1,7 +1,7 @@
 <p align="center">
 <img height="384" src="https://imgur.com/pNticQl.png">
 <br>
-<a href="https://kxwzyy.github.io/"><img src="https://img.shields.io/badge/website-kxwzyy-informational.svg"></a>
+<a href="https://kxwzyy.github.io/"><img src="https://img.shields.io/badge/Discord-kxwzyy-informational.svg"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/intent/user?screen_name=kxwzyy"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20kxwzyy&style=social"></a>
