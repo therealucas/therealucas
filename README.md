@@ -1,7 +1,8 @@
 <p align="center">
 <img height="384" src="https://imgur.com/pNticQl.png">
 <br>
-<a href="https://discordapp.com/"><img src="http://ForTheBadge.com/images/badges/Discord.svg"></a>
+<a href="https://discordapp.com/"><img src="[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
+"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/intent/user?screen_name=kxwzyy"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20kxwzyy&style=social"></a>
