@@ -27,4 +27,4 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 
 <hr>
 <br>
-<p align="center">Olá meu vulgo é "kxwzy" (Lucas) — Todos os direitos reservados.</p>
+<p align="center">Este é o meu perfil da GitHub, Volte sempre. — Todos os direitos reservados.</p>
