@@ -18,7 +18,7 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 
 * [JavaScript](https://nodejs.org)
 * [C++](https://www.npmjs.com/package/discord.js)
-* [Python](https://www.npmjs.com/package/colors)
+* [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 * [HTML](https://www.npmjs.com/package/moment)
 * [CSS](https://www.npmjs.com/package/pg)
 
