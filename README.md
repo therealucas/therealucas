@@ -7,7 +7,7 @@
 
 # 📚 Meu website [![site](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://kxwzy.glitch.me/)
 
-## Olá, visualize todas as coisas que faço abaixo:
+## Visualize as linguagens que programo abaixo:
 
 ### 📦 Linguagens
 
@@ -21,7 +21,7 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=kxwzyy&show_icons=true&theme=radical)
 
-### Contato: kxwzyy#1337
+# Contato: kxwzy#1337
 
 <p align="center">
 <img height="150" src="https://imgur.com/0e1a2m5.png">
