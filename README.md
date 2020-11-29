@@ -5,7 +5,7 @@
 
 <p align="center">
 
-* [![site](https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png)](https://kxwzy.glitch.me/)
+* [![site](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://kxwzy.glitch.me/)
 
 ### Olá, visualize todas as coisas que faço abaixo:
 
