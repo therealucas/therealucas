@@ -9,7 +9,7 @@
 
 ## Olá, visualize todas as coisas que faço abaixo:
 
-# 📦 Linguagens
+### 📦 Linguagens
 
 Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando mais. obrigado a todos os criadores das linguagens!
 
