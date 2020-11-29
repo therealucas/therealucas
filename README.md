@@ -7,9 +7,9 @@
 
 # 📚 Meu website [![site](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://kxwzy.glitch.me/)
 
-### Olá, visualize todas as coisas que faço abaixo:
+## Olá, visualize todas as coisas que faço abaixo:
 
-## 📦 Linguagens
+# 📦 Linguagens
 
 Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando mais. obrigado a todos os criadores das linguagens!
 
