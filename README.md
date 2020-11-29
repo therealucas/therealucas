@@ -2,9 +2,10 @@
 <br>
 </p>
 <h1 align="center"> ⚖️ Olá Aprendizes, Este é o meu Perfil:</h1>
-### Meu site <a href="https://kxwzy.glitch.me/"><img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png"></a>
 
 <p align="center">
+
+* [![site](https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png)](https://kxwzy.glitch.me/)
 
 ### Olá, visualize todas as coisas que faço abaixo:
 
