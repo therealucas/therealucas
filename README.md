@@ -2,7 +2,7 @@
 <br>
 </p>
 <h1 align="center"> ⚖️ Olá Aprendizes, Este é o meu Perfil:</h1>
-<a href="https://lockdzn.github.io/"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
+<a href="https://lockdzn.github.io/"><img src="https://img.shields.io/badge/website-informational.svg"></a>
 
 <p align="center">
 
