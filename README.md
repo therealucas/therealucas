@@ -2,7 +2,7 @@
 <br>
 </p>
 <h1 align="center"> ⚖️ Olá Aprendizes, Este é o meu Perfil:</h1>
-### Meu site <a href="https://kxwzy.glitch.me/"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"></a>
+### Meu site <a href="https://kxwzy.glitch.me/"><img src="https://icons-for-free.com/iconfiles/png/512/html5+logo+icon-1320183248131417726.png"></a>
 
 <p align="center">
 
