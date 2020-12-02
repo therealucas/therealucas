@@ -5,8 +5,6 @@
 
 <p align="center">
 
-# 📚 Meu website [![site](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://kxwzy.glitch.me/)
-
 ## Visualize as linguagens que programo abaixo:
 
 ### 📦 Linguagens
