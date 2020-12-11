@@ -5,7 +5,7 @@
 
 <p align="center">
 
-# Biografia:
+# 📚 Biografia:
 Olá, meu nome é Lucas, Tenho 16 anos moro em Belo Horizonte(MG). Sou apaixonado em programação, eu adoro fazer isso e admiro muito quem é profissional em programar em todas as linguagens. Caso queira me acompanhar em outras rede sociais clique aqui abaixo:
 
 * ![youtube](https://img.shields.io/badge/-Youtube-FF0000?style=appveyor&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UC5xGCyMooq694Ta0YU2qTBQ?view_as=subscriber)
