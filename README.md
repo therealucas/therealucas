@@ -5,6 +5,11 @@
 
 <p align="center">
 
+# Biografia:
+Olá, meu nome é Lucas, Tenho 16 anos moro em Belo Horizonte(MG). Sou apaixonado em programação, eu adoro fazer isso e admiro muito quem é expert em programar em todas as linguagens. Caso queira me acompanhar em outras rede sociais clique aqui abaixo:
+
+* [![youtube](https://img.shields.io/badge/-Youtube-FF0000?style=appveyor&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UC5xGCyMooq694Ta0YU2qTBQ?view_as=subscriber)
+
 ## Visualize as linguagens que programo abaixo:
 
 ### 📦 Linguagens
@@ -19,12 +24,6 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=kxwzyy&show_icons=true&theme=radical)
 
-# Contato: kxwzy#1337
-
-<p align="center">
-<img height="150" src="https://imgur.com/0e1a2m5.png">
-<br>
-
 <hr>
 <br>
-<p align="center">Este é o meu perfil da GitHub, Volte sempre. — Todos os direitos reservados.</p>
+<p align="center">GitHub — Todos os direitos reservados.</p>
