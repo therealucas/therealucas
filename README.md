@@ -23,7 +23,7 @@ Aqui está uma das poucas linguagens que eu programo, são poucas porém com o t
 * [![forthebadge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
 
 # Discord  
-* [![Discord](https://prnt.sc/w2e2gy.png)](https://discordapp.com/)
+* [![Discord](https://imgur.com/eotVjjT.png)](https://discordapp.com/)
 
 ### 🧠 "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz." 
 ### 🌍 "Só é útil o conhecimento que nos torna melhores."
