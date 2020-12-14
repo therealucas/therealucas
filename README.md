@@ -9,12 +9,12 @@
 Olá, meu nome é Lucas, Tenho 16 anos moro em Belo Horizonte(MG). Sou apaixonado em programação, eu adoro fazer isso e admiro muito quem é profissional em programar em todas as linguagens. Caso queira me acompanhar em outras rede sociais clique aqui abaixo:
 
 * [![youtube](https://img.shields.io/badge/-Youtube-FF0000?style=appveyor&amp;labelColor=FF0000&amp;logo=youtube&amp;logoColor=white&amp)](https://www.youtube.com/channel/UC5xGCyMooq694Ta0YU2qTBQ?view_as=subscriber)
-* [![instagram](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/Fixaky/)
+* [![instagram](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp)](https://www.instagram.com/Fixaky/)
 * [![twitter](https://img.shields.io/badge/-@Fixaky-33F0FF?style=flat-square&amp;labelColor=33F0FF&amp;logo=twitter&amp;logoColor=white&amp)](https://twitter.com/Fixakyy)
 
-## 📦 Linguagens
+## 📦 Linguagens:
 
-Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando mais. obrigado a todos os criadores das linguagens!
+Aqui está uma das poucas linguagens que eu programo, são poucas porém com o tempo irei aprendendo sobre mais linguagens :).
 
 
 * [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://pt.wikipedia.org/wiki/JavaScript)
@@ -22,8 +22,8 @@ Aqui está uma das poucas linguagens que sei, futuramente estarei adicionando ma
 * [![forthebadge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 * [![forthebadge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
 
-"O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz."
-- Aristóteles
+### 🧠 "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz." 
+### 🌍 "Só é útil o conhecimento que nos torna melhores."
 
 <hr>
 <br>
