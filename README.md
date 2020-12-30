@@ -14,7 +14,7 @@
 
 <h3 align="center">Hello, my name is Fixaky, but known as Fixa!  I am 16 years old and I am currently living in Belo Horizonte, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=G3ZZING&color=001eff" alt="G3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fixaky&color=001eff" alt="Fixa" /> </p>
 
 #                                                                    *BIO*
 
