@@ -38,16 +38,13 @@
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 
-### *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Fixaky)
-
 #
 
 # 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://media.discordapp.net/attachments/708003453351231560/789531149038387210/9d37e9ab4fa26437516983a513237f03.gif?width=473&height=473" />
+<img align="right" alt="GIF" height="400" width="800" src="https://cdn.discordapp.com/attachments/793277413626347572/794999873141211246/tumblr_olhh66kNOo1sbo5fso1_540.gif" />
   <br>
-  <p align="center"> 私たちは毎日世界を変え、平和を望んでいます。しかし、これを達成するためのあなた自身の努力について考えましたか、それともそれはすべて単なる詐欺ですか？私たちは、これがいつか起こる可能性があると確信しています。だからどこでもそれをしなさい。
+  <p align="center"> たぶん私は何度も騙されています...しかし、どこかで誰かが私の信頼に値すると信じるのを止めません。
 </p>
   
   
