@@ -12,7 +12,7 @@
 
 <a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/791013889244135484/1608309141571.png" />
 
-<h3 align="center">Hello, my name is Fixaky, but known as Fixa!  I am 16 years old and I am currently living in Belo Horizonte, Brazil. I study several things related to Technology & Informatics, currently I do my projects there.</h3>
+<h3 align="center">Hello, my name is Fixaky, but known as Fixa! I am 16 years old and currently live in Belo Horizonte, Brazil. I study several things related to Technology and Informatics, currently doing my projects here at github.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fixaky&color=001eff" alt="Fixa" /> </p>
 
@@ -32,9 +32,7 @@
 
  <details style='text-align: center;' align='center'>
   <summary> Clique aqui! </summary>
-  <p style="text-align: center;"align="center">============================================================</p>
-  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/Fixaky"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fixaky&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Fixaky stats" /></a></p>
-  <p style="text-align: center;"align="center"><a href="https://github.com/Fixaky?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fixaky&layout=compact&show_icons=true&theme=tokyonight" /></a></p>
+  <p style="text-align: center;"align="center">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</p>
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 
