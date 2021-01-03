@@ -14,8 +14,6 @@
 
 <h3 align="center">Hello, my name is Fixaky, but known as Fixa! I am 16 years old and currently live in Belo Horizonte, Brazil. I study several things related to Technology and Informatics, currently doing my projects here at github.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fixaky&color=001eff" alt="Fixa" /> </p>
-
 #                                                                    *BIO*
 
       📚 I am a student in Programming and technology.
