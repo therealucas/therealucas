@@ -18,22 +18,31 @@
 
 #                                                                    *BIO*
 
-      - 📚 I am a student in Programming and technology.
-      - 🌳 I'm 16 years old.
-      - 🧪 I always try to know more!
-      - 📁 I accept new friendships.
-      - 👨🏻‍💻 Look at some of my projects!
+      📚 I am a student in Programming and technology.
+      🌳 I'm 16 years old.
+      🧪 I always try to know more.
+      📁 I accept new friendships.
+      💻 Look at some of my projects.
 
      
-     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+     "Never mistake my silence for weakness. Nobody plans something out loud." 💭
 
 
-#                                                                    *Languages and Status*
+#                                                                    *Languages*
 
  <details style='text-align: center;' align='center'>
   <summary> Clique aqui! </summary>
-  <p style="text-align: center;"align="center">=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=</p>
-  <p style="text-align: center;"align="center">============================================================</p>
+<h3 align="center">📗 Atualmente sei sobre:</h3>
+   
+   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+   
+   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+   
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 </details>
 
 #
