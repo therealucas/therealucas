@@ -5,12 +5,11 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/@Fixaky" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 <a href="https://twitch.tv/Fixaky" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/708003453351231560/791013889244135484/1608309141571.png" />
+<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
 
 <h3 align="center">Hello, my name is Fixaky, but known as Fixa! I am 16 years old and currently live in Belo Horizonte, Brazil. I study several things related to Technology and Informatics, currently doing my projects here at github.</h3>
 
