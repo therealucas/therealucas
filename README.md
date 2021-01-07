@@ -3,13 +3,13 @@
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://cdn.discordapp.com/attachments/708003453351231560/791666366456528906/iniciado.gif?raw=true" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/twitch.png"/>
 </p>
 
-<a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
+<a href="https://www.youtube.com/watch?v=fCoOwsvw2S8=18" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
 
 <h3 align="center">Hello, my name is Fixaky, but known as Fixa! I am 16 years old and currently live in Belo Horizonte, Brazil. I study several things related to Technology and Informatics, currently doing my projects here at github.</h3>
 
