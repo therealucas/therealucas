@@ -11,35 +11,40 @@
 
 <a href="https://www.youtube.com/watch?v=fCoOwsvw2S8=18" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
 
-<h3 align="center">Hello, my name is Fixaky, but known as Fixa! I am 16 years old and currently live in Belo Horizonte, Brazil. I study several things related to Technology and Informatics, currently doing my projects here at github.</h3>
+<h3 align="center">Olá, meu nome é Fixaky, mas conhecido como Fixa! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
 
-#                                                                    *BIO*
+#                                                                    *BIOGRAFIA*
 
-      📚 I am a student in Programming and technology.
-      🌳 I'm 16 years old.
-      🧪 I always try to know more.
-      📁 I accept new friendships.
-      💻 Look at some of my projects.
+
+       📚 Sou estudante de programação e ehitcal hacking.
+       🌳 Tenho 16 anos.
+       🧪 Eu sempre tento descobrir mais.
+       💻 Veja alguns dos meus projetos.
 
      
      "Never mistake my silence for weakness. Nobody plans something out loud." 💭
 
 
-#                                                                    *Languages*
+#                                                                    *Linguagens e Ferramentas*
 
  <details style='text-align: center;' align='center'>
   <summary> Clique aqui! </summary>
-<h3 align="center">📗 Atualmente sei sobre:</h3>
-   
-   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-   
-   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-   
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-   
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ 
+### Linguagens
+
+<img align="center" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="ruby" width="36px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />
+<img align="center" alt="python" width="36px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="center" alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="center" alt="html" width="36px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+
+### Ferramentas
+ 
+ <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+ <img align="center" alt="eclipse" width="36px" src="https://img.icons8.com/officel/26/000000/java-eclipse.png"/>
+ <img align="center" alt="intellij" width="38px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+ <img align="center" alt="atom" width="48px" src="https://img.icons8.com/clouds/48/000000/atom-editor.png"/>
+ 
 </details>
 
 #
