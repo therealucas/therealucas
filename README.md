@@ -5,8 +5,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/@Fixaky" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
-<a href="https://twitch.tv/Fixaky" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/twitch.png"/>
 </p>
 
 <a href="https://youtu.be/dQw4w9WgXcQ?t=43" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
