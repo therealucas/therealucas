@@ -47,8 +47,6 @@
  
 </details>
 
-#
-
 # 
 
 <img align="right" alt="GIF" height="400" width="800" src="https://cdn.discordapp.com/attachments/793277413626347572/794999873141211246/tumblr_olhh66kNOo1sbo5fso1_540.gif" />
