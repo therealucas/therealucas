@@ -1,9 +1,7 @@
 <h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
 </p>
 
-<a href="https://www.youtube.com/watch?v=fCoOwsvw2S8=18" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
-
-<h3 align="left">Olá, meu nome é Fixaky, mas conhecido como Fixa! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
+<h3 align="left">Olá, meu nome é Fixaky, mas conhecido como Ryq! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
 
 #                                                                    *📌 BIOGRAFIA*
 
