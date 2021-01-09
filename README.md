@@ -46,12 +46,6 @@
  <img align="center" alt="atom" width="48px" src="https://img.icons8.com/clouds/48/000000/atom-editor.png"/>
  
 </details>
-
-# 
-
-<img align="right" alt="GIF" height="500" width="900" src="https://cdn.discordapp.com/attachments/793277413626347572/794999873141211246/tumblr_olhh66kNOo1sbo5fso1_540.gif" />
-  <br>
-</p>
   
   
  
