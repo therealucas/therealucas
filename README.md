@@ -3,9 +3,9 @@
 
 <a href="https://www.youtube.com/watch?v=fCoOwsvw2S8=18" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
 
-<h3 align="center">Olá, meu nome é Fixaky, mas conhecido como Fixa! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
+<h3 align="left">Olá, meu nome é Fixaky, mas conhecido como Fixa! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
 
-#                                                                    *BIOGRAFIA*
+#                                                                    *📌 BIOGRAFIA*
 
 
        📚 Sou estudante de programação e ehitcal hacking.
@@ -17,12 +17,12 @@
      "Never mistake my silence for weakness. Nobody plans something out loud." 💭
 
 
-#                                                                    *Linguagens/Ferramentas e Redes Sociais*
+#                                                                    *📗 Linguagens e Redes Sociais*
 
  <details style='text-align: center;' align='center'>
   <summary> Clique aqui! </summary>
  
-### 📗 Linguagens
+### 📖 Linguagens
 
 <img align="center" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="center" alt="ruby" width="36px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />
