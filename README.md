@@ -22,7 +22,7 @@
  <details style='text-align: center;' align='center'>
   <summary> Clique aqui! </summary>
  
-### Linguagens
+### 📗 Linguagens
 
 <img align="center" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="center" alt="ruby" width="36px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" />
@@ -30,7 +30,7 @@
 <img align="center" alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="center" alt="html" width="36px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
-### Ferramentas
+### 🗂 Ferramentas
  
  <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
  <img align="center" alt="eclipse" width="36px" src="https://img.icons8.com/officel/26/000000/java-eclipse.png"/>
@@ -38,7 +38,7 @@
  <img align="center" alt="atom" width="48px" src="https://img.icons8.com/clouds/48/000000/atom-editor.png"/>
  
  
- ### Redes Sociais
+ ### 📌 Redes Sociais
  <a href="https://twitter.com/Fixaky"/>
  <img align="center" alt"twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
  
