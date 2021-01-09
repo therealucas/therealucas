@@ -1,12 +1,4 @@
-#                                                                    *Fixaky*
-
-
-<h3 align="center">Redes Sociais</h3>
-<p align="center">
-<a href="https://twitter.com/Fixaky"/>
-<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-<a href="https://twitch.tv/Fixaky"/>
-<img src="https://img.icons8.com/fluent/48/000000/twitch.png"/>
+<h3 align="center">Fixaky</h3>
 </p>
 
 <a href="https://www.youtube.com/watch?v=fCoOwsvw2S8=18" target="blank"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" />
@@ -25,7 +17,7 @@
      "Never mistake my silence for weakness. Nobody plans something out loud." 💭
 
 
-#                                                                    *Linguagens e Ferramentas*
+#                                                                    *Linguagens/Ferramentas e Redes Sociais*
 
  <details style='text-align: center;' align='center'>
   <summary> Clique aqui! </summary>
@@ -44,6 +36,14 @@
  <img align="center" alt="eclipse" width="36px" src="https://img.icons8.com/officel/26/000000/java-eclipse.png"/>
  <img align="center" alt="intellij" width="38px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
  <img align="center" alt="atom" width="48px" src="https://img.icons8.com/clouds/48/000000/atom-editor.png"/>
+ 
+ 
+ ### Redes Sociais
+ <a href="https://twitter.com/Fixaky"/>
+ <img align="center" alt"twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+ 
+ <a href="https://twitch.tv/Fixaky"/>
+ <img align="center" alt"twitch" width="48px" src="https://img.icons8.com/fluent/48/000000/twitch.png"/>
  
 </details>
   
