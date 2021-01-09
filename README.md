@@ -3,9 +3,11 @@
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://cdn.discordapp.com/attachments/708003453351231560/791666366456528906/iniciado.gif?raw=true" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 
-<h3 align="center">Contact</h3>
+<h3 align="center">Contato</h3>
 <p align="center">
+<a href="https://twitter.com/Fixaky"/>
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<a href="https://twitch.tv/Fixaky"/>
 <img src="https://img.icons8.com/fluent/48/000000/twitch.png"/>
 </p>
 
