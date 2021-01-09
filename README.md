@@ -1,9 +1,7 @@
 #                                                                    *Fixaky*
 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <img src="https://cdn.discordapp.com/attachments/708003453351231560/791666366456528906/iniciado.gif?raw=true" height="30px" width="30px"/> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 
 
-<h3 align="center">Contato</h3>
+<h3 align="center">Redes Sociais</h3>
 <p align="center">
 <a href="https://twitter.com/Fixaky"/>
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
@@ -51,9 +49,8 @@
 
 # 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://cdn.discordapp.com/attachments/793277413626347572/794999873141211246/tumblr_olhh66kNOo1sbo5fso1_540.gif" />
+<img align="right" alt="GIF" height="500" width="900" src="https://cdn.discordapp.com/attachments/793277413626347572/794999873141211246/tumblr_olhh66kNOo1sbo5fso1_540.gif" />
   <br>
-  <p align="center"> たぶん私は何度も騙されています...しかし、どこかで誰かが私の信頼に値すると信じるのを止めません。
 </p>
   
   
