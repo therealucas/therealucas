@@ -6,7 +6,7 @@
 #                                                                    *📌 BIOGRAFIA*
 
 
-       📚 Sou estudante de programação e ehitcal hacking.
+       📚 Sou estudante de programação e ethical hacking.
        🌳 Tenho 16 anos.
        🧪 Eu sempre tento descobrir mais.
        💻 Veja alguns dos meus projetos.
