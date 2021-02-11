@@ -38,11 +38,8 @@
  
  
  ### 📌 Redes Sociais
- <a href="https://twitter.com/Fixaky"/>
- <img align="center" alt"twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
  
- <a href="https://twitch.tv/Fixaky"/>
- <img align="center" alt"twitch" width="48px" src="https://img.icons8.com/fluent/48/000000/twitch.png"/>
+ ![Discord](https://discord.c99.nl/widget/theme-2/789862030018478080.png)
  
 </details>
   
