@@ -1,8 +1,8 @@
-<h2 align="center"> Olá, eu sou o F1x4k" <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> </h2>
+<h2 align="center"> Olá, eu sou o Idealista" <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> </h2>
 <h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
 </p>
 
-<h3 align="left">Olá, meu nome é Fixaky, mas conhecido como Ryq! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
+<h3 align="left">Olá, meu nome é Lucas, mas conhecido como Ryq! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
 
 #                                                                    *📌 BIOGRAFIA*
 
