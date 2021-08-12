@@ -2,7 +2,7 @@
 <h3 align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</h3>
 </p>
 
-<h3 align="left">Olá, meu nome é Lucas, mas conhecido como Ryq! Tenho 16 anos e atualmente moro em Belo Horizonte, Brasil. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui no github :D</h3>
+<h3 align="left">Olá, meu nome é Lucas, mas conhecido como Idealista! Tenho 16 anos e atualmente moro em Minas Gerais. Estudo várias coisas relacionadas a Hacking e Programação, todos os meus projetos eu posto aqui na GitHub :D</h3>
 
 #                                                                    *📌 BIOGRAFIA*
 
