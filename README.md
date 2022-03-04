@@ -1,11 +1,10 @@
 
-#                                                                    just a l4mer having a fun.
+#                                                                    just a boy having a fun.
 
 
 
 ```diff
-⭐ 17 years.
-🔍 Programming and CyberSecurity student.
+📅 17 years.
 🌎  Minas Gerais, Brazil.
 ```
 
